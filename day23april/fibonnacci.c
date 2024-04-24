@@ -14,10 +14,5 @@ int main(){
     first = second;
     second = result;
   }
-  
-    
-
-    return 0;
-
-
+  return 0;
 }
